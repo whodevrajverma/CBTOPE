@@ -5,6 +5,8 @@
 
 **Web Server:** [http://webs.iiitd.edu.in/raghava/cbtope/](https://www.google.com/search?q=http://webs.iiitd.edu.in/raghava/cbtope/)
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20088373
+
 
 ## About the Research
 
