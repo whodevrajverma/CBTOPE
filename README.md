@@ -1,4 +1,4 @@
-# CBTOPE: Identification of Conformational B-cell Epitopes
+# CBTOPE: Identification of conformational B-cell Epitopes in an antigen from its primary sequence
 
 **CBTOPE** is the first computational method developed to predict conformational B-cell epitopes in an antigen from its primary amino acid sequence. This resource is particularly valuable for vaccine design, as most B-cell epitopes are conformational
 (discontinuous) and identifying them usually requires knowledge of the antigen's tertiary structure, which is not always available.
