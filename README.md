@@ -7,6 +7,9 @@
 
 This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20088373
 
+## Note
+* **Please convert all the datasets folder ".txt" files in ".rtf" format.**
+
 
 ## About the Research
 
